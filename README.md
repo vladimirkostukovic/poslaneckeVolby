@@ -1,5 +1,16 @@
 # Election Data Analysis Project
 
+## How to Run the Data Processing Script
+
+To gather and display data through Python, simply run the following command:
+
+```sh
+python data_processing.py
+```
+
+
+## Data Processing File (Using pandas)
+
 ## How to Use This Project (EN)
 
 This guide is simplified for absolute beginners:
